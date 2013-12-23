@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-#region Copyright (C) NetEase All rights reserved
+#region Copyright (C) Author All rights reserved
 /*******************************************************************************************
  * Creation:
  *   Author:          军
